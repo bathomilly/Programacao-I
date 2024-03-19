@@ -1,0 +1,15 @@
+C:\Users\414934\Desktop\aaaa\Aula 05\bin\Debug\net7.0\Aula 05.exe
+C:\Users\414934\Desktop\aaaa\Aula 05\bin\Debug\net7.0\Aula 05.deps.json
+C:\Users\414934\Desktop\aaaa\Aula 05\bin\Debug\net7.0\Aula 05.runtimeconfig.json
+C:\Users\414934\Desktop\aaaa\Aula 05\bin\Debug\net7.0\Aula 05.dll
+C:\Users\414934\Desktop\aaaa\Aula 05\bin\Debug\net7.0\Aula 05.pdb
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.csproj.AssemblyReference.cache
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.AssemblyInfoInputs.cache
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.AssemblyInfo.cs
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.csproj.CoreCompileInputs.cache
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.dll
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\refint\Aula 05.dll
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.pdb
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\Aula 05.genruntimeconfig.cache
+C:\Users\414934\Desktop\aaaa\Aula 05\obj\Debug\net7.0\ref\Aula 05.dll
